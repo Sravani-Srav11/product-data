@@ -1,1 +1,1 @@
-python product_push.py --productids "ABC","DEF","GHI","TUI","dzfs","sdfs","sdfs","sdfs","sdfs","dsfsd" --locales "en-PH","en-US","en-IN","es-CO"
+python product_push.py --productids "ABC","DEF","GHI","TUI","dzfs","sdfs","sdfs","sdfs","sdfs","dsfsd" --locales "en-PH","en-US","en-IN","es-CO", "en-CA"
